@@ -5,7 +5,7 @@
 
 
 ## About
-I'm a junior programmer learning Web Development, currently focused on a **SpringBoot/Angular** stack.
+I'm a Junior Programmer learning Web Development, currently focused on a **SpringBoot/Angular** stack.
 I love games, science fiction media, data science, and of course programming.
 I am looking for career oportunities that make use of my skills and challenge me to learn more.
 
