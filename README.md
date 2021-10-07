@@ -15,7 +15,7 @@
 - Python
 - C# .NET
 ## About
-I'm a Junior Programmer learning Web Development, currently focused on a **SpringBoot/Angular** stack.
+I'm a Junior Web Developer, currently focused on a **SpringBoot/Angular** stack.
 I am looking for career opportunities that make use of my skills and challenge me to learn more.
 
 I'm a self-taught Junior Web Developer, currently focused on a SpringBoot/Angular stack. Looking for career opportunities that make use of my skills and challenge me to learn more.
