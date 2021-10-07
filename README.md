@@ -18,10 +18,10 @@
 I'm a Junior Programmer learning Web Development, currently focused on a **SpringBoot/Angular** stack.
 I am looking for career opportunities that make use of my skills and challenge me to learn more.
 
-I have some college, but for the last year I've been self-taught for personal reasons.
-It's going well, though I do plan on returning to college once I have that sorted out.
+I'm a self-taught Junior Web Developer, currently focused on a SpringBoot/Angular stack. Looking for career opportunities that make use of my skills and challenge me to learn more.
+
 I have many repositories here on GitHub, and my focus project right now is the [Bookstore-API](https://github.com/G4brielMedeiros/Bookstore-api)/[Bookstore-Front.](https://github.com/G4brielMedeiros/bookstore-front)
-This project is intended for me to learn, practice, and demonstrate my Web Dev skills, I will make more projects with this stack in the future.
+This project is intended for me to learn, practice, and demonstrate my Web Dev skills.
 
 ### Hobbies:
 I like building/upgrading my gaming rig, hacking and collecting consoles, and speed-solving the Rubik's Cube.
