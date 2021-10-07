@@ -1,12 +1,22 @@
-# Gabriel Medeiros
+# Gabriel Medeiros 
 ### 🌱 Junior Web Developer
-### 🌎 Fluent in English and Portuguese (BR)
-### ✔️ Looking for Oportunities
+### 🌎 English and Portuguese (BR)
+### ✔️ Looking for Opportunities
 
+## Current Projects
+- [Bookstore-API](https://github.com/G4brielMedeiros/Bookstore-api)
+- [Bookstore-Front.](https://github.com/G4brielMedeiros/bookstore-front)
 
+## Main Skills
+- Java Programming
+- Spring Boot
+- SQL Database Management Systems
+- HTML/CSS3
+- Python
+- C# .NET
 ## About
 I'm a Junior Programmer learning Web Development, currently focused on a **SpringBoot/Angular** stack.
-I am looking for career oportunities that make use of my skills and challenge me to learn more.
+I am looking for career opportunities that make use of my skills and challenge me to learn more.
 
 I have some college, but for the last year I've been self-taught for personal reasons.
 It's going well, though I do plan on returning to college once I have that sorted out.
@@ -14,7 +24,7 @@ I have many repositories here on GitHub, and my focus project right now is the [
 This project is intended for me to learn, practice, and demonstrate my Web Dev skills, I will make more projects with this stack in the future.
 
 ### Hobbies:
-I like building/upgrading my gaming rig, hacking and collecting consoles, and speedsolving the Rubik's Cube.
+I like building/upgrading my gaming rig, hacking and collecting consoles, and speed-solving the Rubik's Cube.
 ### Favorites:
 
 🎮 Minecraft
