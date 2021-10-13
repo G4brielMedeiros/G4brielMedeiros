@@ -1,5 +1,5 @@
 # Gabriel Medeiros 
-### 🌱 Junior Web Developer
+### 🌱 Software Developer
 ### 🌎 English and Portuguese (BR)
 ### ✔️ Looking for Opportunities
 
