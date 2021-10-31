@@ -1,5 +1,5 @@
 # Gabriel Medeiros 
-### 🌱 Software Developer
+### 💻 Software Developer
 ### 🌎 English and Portuguese (BR)
 ### ✔️ Looking for Opportunities
 
@@ -8,12 +8,12 @@
 - [Bookstore-Front.](https://github.com/G4brielMedeiros/bookstore-front)
 
 ## Main Skills
-- Java Programming
+- Java
 - Spring Boot
-- SQL Database Management Systems
+- SQL
 - HTML/CSS3
+- JavaScript
 - Python
-- C# .NET
 ## About
 
 Looking for career opportunities that make use of my skills and challenge me to learn more.
@@ -39,7 +39,7 @@ I like building/upgrading my gaming rig, hacking and collecting consoles, and sp
 
 🔗 [in/G4brielMedeiros](LinkedIn.com/in/G4brielMedeiros)
 
-## Certificates
+## Extra Certificates
 
 [Python for Data Science](https://www.udemy.com/certificate/UC-08576333-fee2-4ad8-8d81-0f7f61e28b45/)
 
