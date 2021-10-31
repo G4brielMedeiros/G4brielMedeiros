@@ -15,13 +15,10 @@
 - Python
 - C# .NET
 ## About
-I'm a Junior Web Developer, currently focused on a **SpringBoot/Angular** stack.
-I am looking for career opportunities that make use of my skills and challenge me to learn more.
 
-I'm a self-taught Junior Web Developer, currently focused on a SpringBoot/Angular stack. Looking for career opportunities that make use of my skills and challenge me to learn more.
+Looking for career opportunities that make use of my skills and challenge me to learn more.
 
-I have many repositories here on GitHub, and my focus project right now is the [Bookstore-API](https://github.com/G4brielMedeiros/Bookstore-api)/[Bookstore-Front.](https://github.com/G4brielMedeiros/bookstore-front)
-This project is intended for me to learn, practice, and demonstrate my Web Dev skills.
+
 
 ### Hobbies:
 I like building/upgrading my gaming rig, hacking and collecting consoles, and speed-solving the Rubik's Cube.
@@ -38,7 +35,7 @@ I like building/upgrading my gaming rig, hacking and collecting consoles, and sp
 🏐 Volleyball
 
 ## Contact
-📧 Gabriel.Lins.Medeiros@gmail.com
+📧 G4brielMedeiros@pm.me
 
 🔗 [in/G4brielMedeiros](LinkedIn.com/in/G4brielMedeiros)
 
