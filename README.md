@@ -3,9 +3,10 @@
 ### 🌎 English and Portuguese (BR)
 ### ✔️ Looking for Opportunities
 
-## Current Projects
+## Best Projects
 - [Bookstore-API](https://github.com/G4brielMedeiros/Bookstore-api)
 - [Bookstore-Front.](https://github.com/G4brielMedeiros/bookstore-front)
+- [Landing Page](https://g4brielmedeiros.github.io/LandingPageExample/)
 
 ## Main Skills
 - Java
