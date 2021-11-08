@@ -17,10 +17,6 @@
 - Python
 ## About
 
-Looking for career opportunities that make use of my skills and challenge me to learn more.
-
-
-
 ### Hobbies:
 I like building/upgrading my gaming rig, hacking and collecting consoles, and speed-solving the Rubik's Cube.
 ### Favorites:
