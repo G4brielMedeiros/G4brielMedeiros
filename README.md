@@ -1,8 +1,6 @@
 # Gabriel Medeiros 
-### 💻 Software Developer
+### 💻 Software Engineer
 ### 🌎 English and Portuguese (BR)
-### ✔️ Looking for Opportunities
-
 ## Best Projects
 - [Bookstore-API](https://github.com/G4brielMedeiros/Bookstore-api)
 - [Bookstore-Front.](https://github.com/G4brielMedeiros/bookstore-front)
@@ -32,8 +30,6 @@ I like building/upgrading my gaming rig, hacking and collecting consoles, and sp
 🏐 Volleyball
 
 ## Contact
-📧 G4brielMedeiros@pm.me
-
 🔗 [in/G4brielMedeiros](LinkedIn.com/in/G4brielMedeiros)
 
 ## Extra Certificates
