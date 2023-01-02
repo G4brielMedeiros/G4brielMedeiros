@@ -1,18 +1,16 @@
 # Gabriel Medeiros 
 ### 💻 Software Engineer
 ### 🌎 English and Portuguese (BR)
-## Best Projects
-- [Bookstore-API](https://github.com/G4brielMedeiros/Bookstore-api)
-- [Bookstore-Front.](https://github.com/G4brielMedeiros/bookstore-front)
-- [Landing Page](https://g4brielmedeiros.github.io/LandingPageExample/)
+## Best Project
+- **[Conduit Clone](https://github.com/G4brielMedeiros/ConduitClone)**
 
 ## Main Skills
 - Java
-- Spring Boot
-- SQL
+- Spring Framework Projects (Boot, Validation, Data JPA, Web, Security, etc)
 - HTML/CSS3
-- JavaScript
-- Python
+- SQL
+- React
+
 ## About
 
 ### Hobbies:
@@ -25,7 +23,7 @@ I like building/upgrading my gaming rig, hacking and collecting consoles, and sp
 
 🎥 Finding Nemo
 
-🥘 Sushi or Pizza
+🍣 Sushi
 
 🏐 Volleyball
 
