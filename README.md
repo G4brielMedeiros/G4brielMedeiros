@@ -28,7 +28,7 @@ I like building/upgrading my gaming rig, hacking and collecting consoles, and sp
 🏐 Volleyball
 
 ## Contact
-🔗 [in/G4brielMedeiros](LinkedIn.com/in/G4brielMedeiros)
+🔗 [in/G4brielMedeiros](https://www.linkedin.com/in/g4brielmedeiros/)
 
 ## Extra Certificates
 
